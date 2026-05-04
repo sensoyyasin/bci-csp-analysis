@@ -57,10 +57,6 @@ The system processes raw EEG signals and classifies epochs into two classes (T1 
 
 ## Usage
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c745d0f4-6e18-4337-aeaf-48fe96f9f0fb" width="65%"/>
-</p>
-
 Train:
 
     python mybci.py <subject> <experiment> train
