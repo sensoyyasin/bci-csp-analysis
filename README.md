@@ -7,8 +7,8 @@ This project implements an EEG-based Brain-Computer Interface (BCI) pipeline for
 ## Electrode Montage
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a3a5bf7e-cbf8-49ef-a52a-d9eb66849fb1" width="48%"/>
-  <img src="https://github.com/user-attachments/assets/c9ea9975-efc4-477a-983e-666ad60c8193" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/a3a5bf7e-cbf8-49ef-a52a-d9eb66849fb1" height="350"/>
+  <img src="https://github.com/user-attachments/assets/c9ea9975-efc4-477a-983e-666ad60c8193" height="350"/>
 </p>
 
 <p align="center">
