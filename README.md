@@ -57,28 +57,31 @@ The system processes raw EEG signals and classifies epochs into two classes (T1 
 
 ## Usage
 
-Train:
+Train a specific subject and experiment:
 
     python mybci.py <subject> <experiment> train
 
-Predict:
+Predict a specific subject and experiment:
 
     python mybci.py <subject> <experiment> predict
 
-Summary:
+Run summary evaluation across all subjects and experiments:
 
     python mybci.py
 
----
+Run visualization and testing for a selected subject:
 
-## Results
+    python visualization.py
 
-    Overall Accuracy        : 0.6841
-    Overall F1 Score macro  : 0.6840
-    Overall Precision macro : 0.6842
-    Overall Recall macro    : 0.6840
-    Precision-Recall AUC    : 0.7600
-    ROC AUC                 : 0.7601
+The subject can be changed inside `visualization.py` by modifying:
+
+    SUBJECT = "S029"
+
+Run visualization mode to display additional outputs for each experiment:
+
+    python visualization.py --visualize
+
+The `--visualize` option shows raw EEG signals, PSD bands, sensor positions, topomaps, and classification score over time for each experiment.
 
 ---
 
