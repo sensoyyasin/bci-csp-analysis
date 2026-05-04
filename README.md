@@ -1,4 +1,4 @@
-# bci-csp-lda
+# Brain Computer Interface
 
 This project implements an EEG based Brain-Computer Interface (BCI) pipeline for classifying motor movement and motor imagery tasks using the PhysioNet EEG dataset.
 
