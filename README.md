@@ -88,8 +88,8 @@ The `--visualize` option shows raw EEG signals, PSD bands, sensor positions, top
 ## Evaluation
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/be647380-8336-47b6-ac9d-ce844a0f3f18" width="45%"/>
-  <img src="https://github.com/user-attachments/assets/e9c38607-fb24-4642-9b5a-6a1ff88e2dea" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/be647380-8336-47b6-ac9d-ce844a0f3f18" height="350"/>
+  <img src="https://github.com/user-attachments/assets/e9c38607-fb24-4642-9b5a-6a1ff88e2dea" height="350"/>
 </p>
 
 <p align="center">
