@@ -1,4 +1,4 @@
-# Brain Computer Interface
+# Brain Computer Interface 
 
 This project implements an EEG-based Brain-Computer Interface (BCI) pipeline for classifying motor movement and motor imagery tasks using the PhysioNet EEG dataset.
 
@@ -7,8 +7,8 @@ This project implements an EEG-based Brain-Computer Interface (BCI) pipeline for
 ## Electrode Montage
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8fcf3cee-ed63-40b8-831d-27fd2a27731a" width="48%"/>
-  <img src="https://github.com/user-attachments/assets/05d06b89-0f54-4ec8-b7a8-1ad168d00a20" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/a3a5bf7e-cbf8-49ef-a52a-d9eb66849fb1" width="48%"/>
+  <img src="https://github.com/user-attachments/assets/c9ea9975-efc4-477a-983e-666ad60c8193" width="48%"/>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ The dataset uses 64 EEG channels based on the international 10–10 system.
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31282b12-3f55-4325-912f-f31e2419a1c3" width="65%"/>
+  <img src="https://github.com/user-attachments/assets/31282b12-3f55-4325-912f-f31e2419a1c3" width="60%"/>
 </p>
 
 ---
